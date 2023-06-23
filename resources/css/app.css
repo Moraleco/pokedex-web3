@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+    font-family: 'Pokemon_Classic' ;
+    src: url('/public/fonts/Pokemon_Classic.ttf') format('truetype');
+    /* adicione outras variações de fonte aqui, se aplicável 
+} */

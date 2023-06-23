@@ -1,0 +1,110 @@
+body{
+    font-family: 'DePixel', sans-serif !important;
+    /* background-image: url(/public/images/background.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+    background: #EFEFBB;
+	background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);
+	background: linear-gradient(to right, #D4D3DD, #EFEFBB);
+
+/*	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	
+	margin: 0; */
+                                                
+}
+
+/* CARD POKEMON E CARD TREINADOR */
+.test{
+    min-width: auto !important;
+    max-width: auto !important;
+    width: auto !important;
+    margin: 20px 20px 0px 20px !important;
+}
+
+.test:hover{
+    transform: scale(1.06);
+}
+
+.a-poke{
+    text-decoration: none !important;
+}
+
+
+.card-poke{
+    border: none !important;
+    box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
+    /* background-color:  red !important; */
+    width: 250px !important;     
+}
+
+.img-poke{
+	border-radius: 20px;
+	box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+    width: 215px;
+    height: auto;
+}
+
+.card-agua {
+    background-color: #DEF3FD !important; 
+}
+
+.card-fogo {
+    background-color: #ffd7b1 !important; 
+}
+
+.card-voador{
+    background-color: #b9d2ee !important; 
+}
+
+.card-fada{
+    background-color: #fceaff !important;
+}
+
+.card-venenoso{
+    background-color: #d3bbff !important;
+
+}
+
+.card-grama {
+    background-color: #c0f8c4 !important; 
+}
+
+.card-psiquico{
+    background-color: #ffdde2 !important;
+}
+
+.card-eletrico {
+    background-color: #FCF7DE !important; 
+}
+
+.card-pedra {
+    background-color: #d5d5d4 !important; 
+}
+
+.type-icon {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    margin: 0px 0px 0px 150px;
+    transition: 200ms all;
+    
+}
+
+
+div .pokemon-text{
+  	background-color: rgba(0, 0, 0, 0.1) ;
+	border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 2.5px;
+    
+}
+  .pokemon-text {
+    margin: 0;
+  }

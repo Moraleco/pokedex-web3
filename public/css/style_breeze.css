@@ -1,0 +1,13 @@
+body{
+    font-family: 'DePixel', sans-serif !important;
+    background-image: url(../images/back.gif);
+    
+}
+
+.icon-menu{
+    position:absolute;
+    margin-top: 20px;
+    margin-inline-start: 835px;
+    width: 250px;
+    height: 250px;
+}
